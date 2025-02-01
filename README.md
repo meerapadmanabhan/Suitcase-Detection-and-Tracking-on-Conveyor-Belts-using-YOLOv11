@@ -1,4 +1,7 @@
 # 🧳 Suitcase Detection and Tracking using YOLOv11
+![suitcase](https://github.com/user-attachments/assets/1cff81d9-fb69-4b5a-a58b-d434ddb0586b)
+
+## **Overview**  
 This project implements **real-time object detection and tracking** to count suitcases on a conveyor belt using **YOLOv11** and **DeepSORT tracking**. The system ensures accurate **baggage tracking**, helping improve **airport security, logistics automation, and warehouse management**.  
 
 ## **How It Works**  
